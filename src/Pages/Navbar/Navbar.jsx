@@ -12,7 +12,7 @@ function Navbar() {
                     
                 </div>
             </div>
-            <div className="navbar-links flex flex-col justify-center items-center sm:flex sm:flex-row sm:space-x-10">
+            <div className="navbar-links flex flex-col justify-center items-center sm:flex sm:flex-row sm:space-x-10 text-md">
                 <a className=""href="/">Home</a>
                 <a className=""href="/about">Services</a>
                 <a className=""href="/contact">Works</a>
