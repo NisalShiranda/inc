@@ -16,7 +16,7 @@ function WelcomeSection() {
 
         </div>
 
-        <div className="welcome-box1 grid grid-cols-1 pt-4 sm:grid-cols-3 sm:py-20">
+        <div className="welcome-box1 grid grid-cols-1 pt-4  sm:grid-cols-3 sm:py-20">
             <div className="sm:px-5">
                 <div className=" flex justify-center items-center text-2xl sm:text-4xl"><PiAnchor className="welcome-logo" /></div>
                 <div className="flex flex-col justify-center items-center text-center pt-4">
