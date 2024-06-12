@@ -1,5 +1,5 @@
 import "./People.css"
-import Card from "../../Components/Card"
+
 import Carousel from "../../Components/Carousel"
 
 function People() {

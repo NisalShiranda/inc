@@ -6,6 +6,7 @@ import Skills from "./Pages/Skills/Skills"
 import Works from "./Pages/Works/Works"
 import Contact from "./Pages/Contact/Contact"
 import People from "./Pages/People/People"
+import Footer from "./Pages/Footer/Footer"
 import './App.css'
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Works />
       <Contact />
       <People />
+      <Footer />
     </>
   )
 }
