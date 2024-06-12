@@ -12,7 +12,7 @@ function WelcomeSection() {
             <p className="font-bold tracking-widest sm:text-3xl ">YOU ARE WELCOME</p>
         </div>
 
-        <div className="line">
+        <div className="line mt-2">
 
         </div>
 

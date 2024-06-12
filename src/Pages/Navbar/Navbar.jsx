@@ -4,7 +4,7 @@ import Circle from "../../../public/circle.svg";
 function Navbar() {
   return (
     <>
-        <div className="navbar-container flex flex-col justify-center items-center sm:flex sm:flex-row sm:justify-between sm:px-32">
+        <div className="navbar-container  flex flex-col justify-center items-center sm:flex sm:flex-row sm:justify-between sm:px-32 sm:py-2">
             <div className="navbar-logo flex flex-row">
                 <div><h1 className="font-bold text-2xl ">INC</h1></div>
                 <div className="shape flex justify-center items-center">
