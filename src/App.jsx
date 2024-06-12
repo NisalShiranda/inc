@@ -5,6 +5,7 @@ import ReadMoreSection from "./Pages/ReadMore/ReadMoreSection"
 import Skills from "./Pages/Skills/Skills"
 import Works from "./Pages/Works/Works"
 import Contact from "./Pages/Contact/Contact"
+import People from "./Pages/People/People"
 import './App.css'
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Skills />
       <Works />
       <Contact />
+      <People />
     </>
   )
 }

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import "./ReadMore.css"
 import { IoMdArrowForward } from "react-icons/io";
 
