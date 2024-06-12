@@ -1,0 +1,14 @@
+.line{
+    width: 30px;
+    height: 2px;
+    border-radius: 3px;
+    background-color: #3ABEF9;
+    margin: auto;
+}
+
+.welcome-logo{
+    background-color:  #A7E6FF;
+    padding: 5px;
+    border-radius: 100%;
+    margin: auto;
+}

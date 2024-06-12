@@ -1,11 +1,11 @@
 .read-container {
     width: 150px;
-    border: 1px solid black;
+    border: 1px solid #3ABEF9;
     display: flex;
 
     
 }
 
 .read-box2{
-    border-left: 1px solid black;
+    border-left: 1px solid #3ABEF9;
 }

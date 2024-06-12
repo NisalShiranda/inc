@@ -1,5 +1,6 @@
 import Navbar from "./Pages/Navbar/Navbar"
 import Home from "./Pages/Home/Home"
+import WelcomeSection from "./Pages/Welcome/WelcomeSection"
 import './App.css'
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
     <>
       <Navbar />
       <Home />
-      <div>Nisal Shiranda</div>
+      <WelcomeSection />
     </>
   )
 }
