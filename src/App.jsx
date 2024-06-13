@@ -8,7 +8,7 @@ import Contact from "./Pages/Contact/Contact"
 import People from "./Pages/People/People"
 import Footer from "./Pages/Footer/Footer"
 import './App.css'
-
+import BacktoTopButton from "./Components/BackToTopButton"
 function App() {
   
 
@@ -23,6 +23,7 @@ function App() {
       <Contact />
       <People />
       <Footer />
+      <BacktoTopButton />
     </>
   )
 }

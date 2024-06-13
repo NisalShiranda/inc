@@ -7,7 +7,7 @@ import ReadMore from "../../Components/ReadMore"
 function Home() {
   return (
     <>
-        <div className="Home-container  ">
+        <div className="Home-container" id="home">
             <div className="Home-Image overflow-hidden">
                 <img className="w-full h-screen object-cover absolute "src={Homes} alt="Hero Image"></img>
                 <div className="Home-Text relative h-screen w-[100%] sm:w-[70%] flex justify-center items-center">

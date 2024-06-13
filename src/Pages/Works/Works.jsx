@@ -6,7 +6,7 @@ import Girl from "../../../public/girl.jpg"
 function Works() {
   return (
     <>
-        <div className="works-container px-5 sm:px-32 py-16">
+        <div className="works-container px-5 sm:px-32 py-16" id="works">
             <div className="Header text-center flex flex-col justify-center items-center">
                 <p className="text-sm font-semibold text-[#03AED2]">CREATIVE INC.</p>
                 <p className="font-bold tracking-widest sm:text-3xl ">OUR AMAZING WORKS</p>

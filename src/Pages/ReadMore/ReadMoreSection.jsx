@@ -5,7 +5,7 @@ import ReadMore from "../../Components/ReadMore"
 function ReadMoreSection() {
   return (
     <>
-        <div className="readSection-container px-5 sm:px-32 py-10 grid grid-cols-1 sm:grid lg:grid-cols-2 sm:gap-8">
+        <div className="readSection-container px-5 sm:px-32 py-10 grid grid-cols-1 sm:grid lg:grid-cols-2 sm:gap-8" id="about">
             <div className="flex justify-center items-center">
               <img src={Group} alt="group photo"></img>
             </div>
