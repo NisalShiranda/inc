@@ -21,21 +21,21 @@ function WelcomeSection() {
                 <div className=" flex justify-center items-center text-2xl sm:text-4xl"><PiAnchor className="welcome-logo" /></div>
                 <div className="flex flex-col justify-center items-center text-center pt-4">
                     <p className="font-bold">CREATIVE CONCEPT</p>
-                    <p className="pt-2 font-light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
+                    <p className="pt-2 font-light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, </p>
                 </div>
             </div>
             <div className="sm:px-5 pt-4 sm:pt-0">
                 <div className=" flex justify-center items-center text-2xl sm:text-4xl"><CiImageOn className="welcome-logo" /></div>
                 <div className="flex flex-col justify-center items-center text-center pt-4">
                     <p className="font-bold">CREATIVE CONCEPT</p>
-                    <p className="pt-2 font-light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
+                    <p className="pt-2 font-light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, </p>
                 </div>
             </div>
             <div className="sm:px-5 pt-4 sm:pt-0">
                 <div className=" flex justify-center items-center text-2xl sm:text-4xl"><RxRocket className="welcome-logo" /></div>
                 <div className="flex flex-col justify-center items-center text-center pt-4">
                     <p className="font-bold">CREATIVE CONCEPT</p>
-                    <p className="pt-2 font-light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>   
+                    <p className="pt-2 font-light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, </p>   
                 </div>
             </div>
         </div>
